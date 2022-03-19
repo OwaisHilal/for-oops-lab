@@ -46,7 +46,7 @@ int main()
         {
            {
               sales_tax = (5 * (purcahse - discount)) / 100;     
-              cout <<"Total purchases\t\t t:$"<<purcahse;
+              cout <<"Total purchases\t:=>$"<<purcahse;
               cout<<"\n\nSales tax(5%)\t :"<<sales_tax;
               cout << "\n\nTotal\t	:$" <<sales_tax+purcahse;
            }
